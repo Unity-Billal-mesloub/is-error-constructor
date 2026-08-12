@@ -30,4 +30,4 @@ isErrorConstructor(UnicornError);
 
 ## Related
 
-- [is](https://github.com/sindresorhus/is) - Type check values
+- [is](https://github.com/Unity-Billal-mesloub/is) - Type check values
